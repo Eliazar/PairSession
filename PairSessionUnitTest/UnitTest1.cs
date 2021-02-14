@@ -2,6 +2,7 @@ using NUnit.Framework;
 using PairSession;
 namespace Tests
 {
+    [TestFixture]
     public class Tests
     {
 
