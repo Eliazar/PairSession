@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1401
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairSession", "PairSession\PairSession.csproj", "{A7D2F12F-04DB-4F6B-AA8C-EFF7D37E0CE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairSessionUnitTest", "PairSessionUnitTest\PairSessionUnitTest.csproj", "{440F7342-DDD9-419E-8E3C-D9773CF4F99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A7D2F12F-04DB-4F6B-AA8C-EFF7D37E0CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7D2F12F-04DB-4F6B-AA8C-EFF7D37E0CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7D2F12F-04DB-4F6B-AA8C-EFF7D37E0CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{440F7342-DDD9-419E-8E3C-D9773CF4F99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{440F7342-DDD9-419E-8E3C-D9773CF4F99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{440F7342-DDD9-419E-8E3C-D9773CF4F99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{440F7342-DDD9-419E-8E3C-D9773CF4F99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
